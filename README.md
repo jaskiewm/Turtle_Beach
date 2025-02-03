@@ -20,13 +20,13 @@
 
 <h3 align="center">TURTLE BEACH</h3>
   <p align="center">
-    A 24-hour recreation of the popular game of PONG.
+    You are a baby turtle who just hatched. Survive the perilous journey to the beach as you are hounded by seagulls.
     <br />
 <!--     <a href="https://github.com/jaskiewm/PONG/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/jaskiewm/PONG/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
     . -->
-    <a href="https://oinkle.itch.io/pong-remake">Itch.io Link</a>
+    <a href="https://jaskiewm.itch.io/turtle-beach">Itch.io Link</a>
   </p>
 </div>
 
@@ -35,7 +35,7 @@
 
 <!-- USAGE EXAMPLES -->
 ### Installation & Usage
-Install the ZIP file and play some PONG!
+Install the ZIP file and get that turtle to safety!
 
 <!-- CONTRIBUTING -->
 ### Contributors:
