@@ -37,6 +37,9 @@
 ### Installation & Usage
 Install the ZIP file and get that turtle to safety!
 
+### Gameplay
+![product-gameplay]
+
 <!-- CONTRIBUTING -->
 ### Contributors:
 <a href="https://github.com/jaskiewm/PONG/graphs/contributors">
@@ -62,6 +65,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [license-url]: https://github.com/jaskiewm/PONG/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jaskiewm
-[product-screenshot]: images/screenshot.png
+[product-gameplay]: Assets/GameplayGIF.gif
 [Unity]: https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity
 [Unity-url]: https://unity.com/
