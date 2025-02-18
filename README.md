@@ -8,25 +8,18 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-<!--[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]-->
-
-<!-- PROJECT LOGO -->
-<br />
 <div>
-  <a href="https://github.com/jaskiewm/Turtle_Beach">
-<!--     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
-  </a>
+<!--   <a href="https://github.com/jaskiewm/Turtle_Beach">
+<!--     <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a> -->
 
 <h3>Game Description</h3>
   <p>
     You are a baby turtle who just hatched. Survive the perilous journey to the beach as you are hounded by seagulls.
     <br />
-<!--     <a href="https://github.com/jaskiewm/PONG/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/jaskiewm/PONG/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-    . -->
-    <a href="https://jaskiewm.itch.io/turtle-beach">Itch.io Link</a>
+   
+   [![Itch]][Itch-url]
+   
   </p>
 </div>
 
@@ -64,3 +57,5 @@ Install the ZIP file and get that turtle to safety!
 [product-gameplay]: Assets/GameplayGIF.gif
 [Unity]: https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity
 [Unity-url]: https://unity.com/
+[Itch]: https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white
+[Itch-url]: https://jaskiewm.itch.io/turtle-beach
