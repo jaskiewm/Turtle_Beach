@@ -13,13 +13,13 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div>
   <a href="https://github.com/jaskiewm/Turtle_Beach">
 <!--     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-<h3 align="center">TURTLE BEACH</h3>
-  <p align="center">
+<h3>Game Description</h3>
+  <p>
     You are a baby turtle who just hatched. Survive the perilous journey to the beach as you are hounded by seagulls.
     <br />
 <!--     <a href="https://github.com/jaskiewm/PONG/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
@@ -37,7 +37,7 @@
 ### Installation & Usage
 Install the ZIP file and get that turtle to safety!
 
-### Gameplay
+### Gameplay Screenshot
 ![product-gameplay]
 
 <!-- CONTRIBUTING -->
@@ -45,10 +45,6 @@ Install the ZIP file and get that turtle to safety!
 <a href="https://github.com/jaskiewm/PONG/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jaskiewm/PONG" alt="contrib.rocks image" />
 </a>
-
-<!-- LICENSE -->
-### License
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
