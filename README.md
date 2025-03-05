@@ -3,10 +3,10 @@
 <a id="readme-top"></a>
 ![complete]
 <br><br>
-[![Contributors][contributors-shield]][contributors-url]
+<!--[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]][issues-url]-->
 
 <div>
 <!--   <a href="https://github.com/jaskiewm/Turtle_Beach">
@@ -34,10 +34,10 @@ Install the ZIP file and get that turtle to safety!
 ![product-gameplay]
 
 <!-- CONTRIBUTING -->
-### Contributors:
+<!--### Contributors:
 <a href="https://github.com/jaskiewm/PONG/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jaskiewm/PONG" alt="contrib.rocks image" />
-</a>
+</a>-->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
